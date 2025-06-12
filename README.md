@@ -1,17 +1,17 @@
 # Overview:
-Senior Data Engineer with almost 7 years of experience in the field of data, majorly focused on data engineering. I have built and deployed scalable data pipelines on the AWS environment. I have good hands-on experience in data modelling and designing architecture for the batch/streaming pipeline.
+AWS Data Engineer with 7+ years of proven track record in designing and implementing scalable real-time and batch data pipelines on AWS. Adept at optimising big data workflows and delivering actionable insights through robust analytics solutions. Architected and deployed data models supporting both OLAP and OLTP use cases for a major sports ticketing platform. Designed and implemented a data governance framework for PII encryption, and used AWS KMS (server-side and client-side) and secure data migration across environments. Expertise includes Spark performance tuning, large-scale data migrations, and leading cross-functional teams to enable data-driven decision-making.
 
 ## Technical Skills:
-* Programming Languages: Python, Shell scripting (Unix/Linux)
-* Databases:
-  - DataWarehouse: Redshift
-  - Relational Databases: Postgres, Oracle, MySQL
-* Non-Relational Databases: DynamoDB
-* AWS Services: Kinesis Data Streams, Glue, SQS, Lambda, S3, Step Functions, EC2, EMR, SNS, ECS
-* Big Data Frameworks: Spark, Databricks, Hadoop, Hive
-* Version Control & Documentation: Code Commit, Bitbucket, Jira, SVN, Confluence
+* Programming Languages: Python, Shell
+* Cloud: AWS
+* Processing & Streaming: Spark, MapReduce, Kafka
+* Artificial Intelligence & LLMs: Amazon Bedrock, OpenAI (ChatGPT, DALL·E)
+* Storage / DWH / Databases: Redshift, Oracle, Postgres, DynamoDB, Hadoop, Hive
+* Data Orchestration: Step functions, Airflow
+* AWS services: EMR, Glue, Glue catalogue, Athena, Lambda, S3, Kinesis Data Streams, DMS, IAM, EC2, SNS, ECS
 * Data Integration/Management: Informatica (PowerCenter, BDM, MDM)
-* Schedulers: Apache Airflow
+* Version control: Git, Jira, AWS CI/CD, Docker, Linux, Jira, SVN, Confluence
+
 
 ---
 
